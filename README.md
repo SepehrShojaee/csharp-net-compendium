@@ -8,7 +8,7 @@ It covers core concepts, OOP, advanced language features, and practical code exa
 > ⚠️ **Disclaimer**  
 > All rights to the original material belong to the author and publisher.  
 > This repository is an **unofficial mirror**, shared **solely for educational and personal reference**.  
-> If you are the author or a representative and wish this content removed, please contact me at **sepehr.shojaee92@gmail.com**.
+> If you are the author or a representative and wish this content removed, please contact me at **3pehr.Shojaee@gmail.com**.
 
 ### 📎 Original Sources
 - Leanpub: [https://leanpub.com/csharp-net-interview-compendium](https://leanpub.com/csharp-net-interview-compendium)  
